@@ -1,0 +1,20 @@
+// to define an integer: 
+myint = 7
+print(myint)
+
+// to define a float number, number with a decimal:
+myfloat = 7.0
+print(myfloat)
+myfloat = float(7)
+print(myfloat)
+
+// strings
+mystring = 'hello'
+print(mystring)
+
+// Assignments can be done on more than one variable
+a, b = 3, 4
+print(a,b)
+
+// Mixing operators between numbers and strings is not supported:
+// https://onlinegdb.com/sVsJsajGs
